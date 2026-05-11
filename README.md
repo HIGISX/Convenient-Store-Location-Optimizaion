@@ -1,1 +1,2 @@
 # Convenient-Store-Location-Optimizaion
+This study takes Bianlifeng convenience stores in Beijing as the research object, analyzes their spatial distribution based on multi-source spatial data, and applies the MCLP model for location optimization. The results show that GA has faster solving speed, while Gurobi performs better in covered demand and coverage rate. This study provides a methodological reference for convenience store layout optimization and urban retail service planning.
