@@ -1,0 +1,5 @@
+shp/*.shp filter=lfs diff=lfs merge=lfs -text
+shp/*.dbf filter=lfs diff=lfs merge=lfs -text
+shp/*.shx filter=lfs diff=lfs merge=lfs -text
+shp/*.prj filter=lfs diff=lfs merge=lfs -text
+shp/*.cpg filter=lfs diff=lfs merge=lfs -text
